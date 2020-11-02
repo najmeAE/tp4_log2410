@@ -16,4 +16,7 @@ AbsParcelle::~AbsParcelle() {
 
 int AbsParcelle::getLongueurTuyeauterie() {
     return m_longueurTuyeauterie;
+
+
+    
 }
